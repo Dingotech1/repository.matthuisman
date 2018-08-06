@@ -2,9 +2,9 @@
 <addon id="repository.matthuisman" name="MattHuisman.nz Repository" provider-name="" version="X">
   <extension point="xbmc.addon.repository" name="MattHuisman.nz Repository">
     <dir>
-      <info compressed="false">https://raw.githubusercontent.com/matthuisman/kodi-repo/stable/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/matthuisman/kodi-repo/stable/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/matthuisman/kodi-repo/stable/</datadir>
+      <info compressed="false">https://raw.githubusercontent.com/matthuisman/kodi-repo/master/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/matthuisman/kodi-repo/master/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/matthuisman/kodi-repo/master/</datadir>
     </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
